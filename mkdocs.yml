@@ -73,6 +73,7 @@ nav:
       - Monitoring: code/devops/monitoring.md
     - Backend:
       - SEO: code/backend/seo.md
+      - Bytestash: code/backend/bytestash.md
     - Frontend:
       - UI/UX: code/frontend/ui-ux.md
       - Custom Fonts: code/frontend/custom-fonts.md
