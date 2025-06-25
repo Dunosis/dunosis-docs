@@ -221,3 +221,7 @@ To ensure your snippets are easy to understand, reusable, and searchable, follow
 5. **Avoid unnecessary code**, comments, or sensitive information (e.g., API keys).
 6. **Group related code fragments** together (e.g., HTML + CSS + JS for a component).
 7. **Use consistent language selection** for syntax highlighting.
+---
+
+**Author:** Andrés Ribera E.
+**Last updated:** July 25, 2025
