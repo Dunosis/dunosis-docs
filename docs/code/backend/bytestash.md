@@ -62,22 +62,39 @@ When creating a new snippet in Bystash, you’ll be asked to fill out several fi
     - Enter a **clear and descriptive title** for your snippet.
     - This helps others (and yourself) quickly understand what the code does.
 
-    **✅ Example:**
 
-    `
-    Fetch Data with Axios in React
-    `
+    ???+ success "Examples"
+
+        **"Fetch Data with Axios in React"**
+
+        **"Dynamic Pricing Card"**  for a frontend based snippet
+
+        **"Django Configurations"** for a admin snippet
+
 ---
 
 2. **Description** 📝
 
-    - **Optional but recommended**
-    - Provide a brief explanation of what the snippet does, its use case, or any context.
+    - **Required**
+        - **Repository Reference (Required):** Include a direct link to the GitHub repository (or specific file/line) where the snippet is used.
+        - **Context or Use Case:** Describe when and why this snippet should be used.
+        - **Project/Module Name (Optional, Recommended):** Identify the module or feature this code belongs to within the repo (for teams with multiple modules).
+        - **Snippet Versioning or Last Updated:** Indicate when the snippet was last reviewed or modified.
+        - **Expected Output / Behavior:** Briefly explain what this snippet is expected to return or do.
+        - **Dependencies:** Mention any libraries, environment, or tools required for the snippet to work.
 
-    **✅ Example:**
-    ```
-    This snippet uses Axios to fetch data from a public API and display it in a React component.
-    ```
+
+    ???+ success "Examples"
+
+        - This snippet handles login form validation in React.
+        - See usage in: [GitHub Repo](https://github.com/your-org/your-app/blob/main/src/components/LoginForm.jsx)
+        
+        - Output: Returns an array of filtered user objects matching the search criteria.
+
+        - Requires: Axios, React 18+, useEffect, useState 
+        - ⚠️ Does not handle network errors or 401 responses — must be handled separately.
+
+        - See also: [Custom Axios Hook Snippet](https://code.bystash.com/snippets/custom-axios-hook)
 ---
 
 3. **Categories (max 20)**
@@ -86,10 +103,11 @@ When creating a new snippet in Bystash, you’ll be asked to fill out several fi
     - Press **Enter** or **comma** after each category.
     - Categories help others find your snippet based on functionality or technology.
 
-    **✅ Example:**
-    ```
-    axios, react, api, frontend
-    ```
+
+
+    ???+ success "Examples"
+
+        `axios`, `react`, `api`, `frontend`
 ---
 
 4. **Visibility – Make Snippet Public** 🌍 
@@ -108,13 +126,13 @@ When creating a new snippet in Bystash, you’ll be asked to fill out several fi
 
     - Click the `+` button next to “Code Fragments”.
 
-        **✅ Example:**
+        ???+ success "Examples"
 
-        * Fragment 1: `main` → `JavaScript`
-        * Fragment 2: `style` → `CSS`
+            * Fragment 1: `main` → `JavaScript`
+            * Fragment 2: `style` → `CSS`
 ---
 
-6. **Final Step – Save** ✅ 
+6. **Final Step – Save** 
 
 Click the blue **“Add Snippet”** button to save your code snippet to your library.
 
@@ -225,3 +243,49 @@ To ensure your snippets are easy to understand, reusable, and searchable, follow
 
 **Author:** Andrés Ribera E.
 **Last updated:** July 25, 2025
+<!-- 
+## 5. Privacy and Security
+### Visibility control: public vs private
+
+### How to protect your code snippets
+
+### User roles and permissions (if applicable)
+
+## 6. Collaboration and Community
+### Contributing public snippets
+    
+### Guidelines for community snippets
+    
+### Content moderation rules
+    
+### Comments or rating system (if available)
+    
+## 7. Developer Section (if the platform is extensible)
+### Public API (if available)
+    
+### Integrating Bystash into your workflow (CLI, VS Code, etc.)
+    
+### Webhooks and automation
+    
+### Auto-importing snippets from other platforms
+    
+## 8. FAQ (Frequently Asked Questions)
+### Can I edit a public snippet?
+    
+### What happens if I delete a snippet?
+    
+### Are there any size or language limits?
+    
+## 9. Support and Contact
+### How to get support (email, Discord, etc.)
+    
+### Reporting bugs or security issues
+    
+### Suggesting new features
+    
+##10. Credits and License
+### Open source license
+    
+### Development team credits
+    
+### Contributor acknowledgments -->
