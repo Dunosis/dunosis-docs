@@ -1,11 +1,11 @@
 # ByteStash Docs
 
 ## 1. Introduction
-### What is ByteStash?
-ByteStash is an open-source platform where developers can save and share reusable code snippets. Whether you're working in HTML, CSS, JavaScript, Python, Ruby, or many other languages, ByteStash helps you organize your most useful code and keep it accessible. Snippets can be kept private for personal use or made public to share knowledge with the community.
+### What is Bytestash?
+Bytestash is an open-source platform where developers can save and share reusable code snippets. Whether you're working in HTML, CSS, JavaScript, Python, Ruby, or many other languages, Bytestash helps you organize your most useful code and keep it accessible. Snippets can be kept private for personal use or made public to share knowledge with the community.
 
 ### Purpose of the platform
-The main goal of ByteStash is to simplify how developers manage frequently used code. It eliminates the need to search through old projects or scattered notes by centralizing snippets in one accessible location. Additionally, ByteStash fosters collaboration by allowing users to share public snippets with the community, making it easier to reuse trusted, well-documented code.
+The main goal of Bytestash is to simplify how developers manage frequently used code. It eliminates the need to search through old projects or scattered notes by centralizing snippets in one accessible location. Additionally, Bytestash fosters collaboration by allowing users to share public snippets with the community, making it easier to reuse trusted, well-documented code.
 
 ### Target audience
 - **Software developers** looking to organize their code snippets.
@@ -48,7 +48,7 @@ If you already have an account, log in to the platform  <a href="https://code.du
 ![Form Snippet](../../assets/backend/bytestash/by-create_snippet_form.png){ loading=lazy }
 
 
-When creating a new snippet in ByteStash, you’ll be asked to fill out several fields. Here’s a step-by-step guide:
+When creating a new snippet in Bytestash, you’ll be asked to fill out several fields. Here’s a step-by-step guide:
 
 ---
 
@@ -90,7 +90,7 @@ When creating a new snippet in ByteStash, you’ll be asked to fill out several 
         - Requires: Axios, React 18+, useEffect, useState 
         - ⚠️ Does not handle network errors or 401 responses — must be handled separately.
 
-        - See also: [Custom Axios Hook Snippet](https://code.ByteStash.com/snippets/custom-axios-hook)
+        - See also: [Custom Axios Hook Snippet](https://code.bytestash.com/snippets/custom-axios-hook)
 ---
 
 3. **Categories (max 20)**
@@ -201,7 +201,7 @@ Properly tagging your snippets helps improve searchability, organization, and re
 ## 4. Supported Languages and Formats
 ### 🔹 List of Supported Languages
 
-ByteStash supports a wide variety of programming and scripting languages to accommodate different use cases. These include:
+Bytestash supports a wide variety of programming and scripting languages to accommodate different use cases. These include:
 
 - **Frontend**: HTML, CSS, JavaScript, TypeScript
 - **Backend**: Python, Ruby, PHP, Java, C#, Node.js
@@ -216,7 +216,7 @@ Additional languages may be added progressively or via community contributions.
 
 ### 🔹 Syntax Highlighting Support
 
-ByteStash uses language-aware syntax highlighting to make code easier to read and understand. Each code fragment can be assigned a language, and the editor automatically applies appropriate styling and colorization.
+Bytestash uses language-aware syntax highlighting to make code easier to read and understand. Each code fragment can be assigned a language, and the editor automatically applies appropriate styling and colorization.
 
 - Highlighting is powered by a built-in highlighter (e.g., Prism.js or Highlight.js).
 - Multi-language snippets are supported by allowing multiple fragments per snippet.
