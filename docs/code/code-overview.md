@@ -30,6 +30,7 @@ Learn how we deploy, monitor, and scale projects with step-by-step guides:
 Get insights into the server-side logic and optimization:
 
 - **[SEO Best Practices](backend/seo.md)**: Improve search engine rankings with optimized backend code.
+- **[Bytestash Docs](backend/bytestash.md)**: Documentation page and usage guide for Bytestash
 
 ---
 

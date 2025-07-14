@@ -28,6 +28,7 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 **Backend**:
 
 - [SEO Best Practices](code/backend/seo.md)
+- [ByteStash Docs](code/backend/bytestash.md)
 
 **Frontend**:
 
