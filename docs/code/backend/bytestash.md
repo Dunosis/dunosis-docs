@@ -1,15 +1,11 @@
-# Bytestash Docs
-!!! warning ":construction: Under Construction :construction:"
-
-    This section is still under construction. Facts, information, and data in here may not be complete or accurate yet. 
-
+# ByteStash Docs
 
 ## 1. Introduction
-### What is Bystash?
-Bystash is an open-source platform where developers can save and share reusable code snippets. Whether you're working in HTML, CSS, JavaScript, Python, Ruby, or many other languages, Bystash helps you organize your most useful code and keep it accessible. Snippets can be kept private for personal use or made public to share knowledge with the community.
+### What is ByteStash?
+ByteStash is an open-source platform where developers can save and share reusable code snippets. Whether you're working in HTML, CSS, JavaScript, Python, Ruby, or many other languages, ByteStash helps you organize your most useful code and keep it accessible. Snippets can be kept private for personal use or made public to share knowledge with the community.
 
 ### Purpose of the platform
-The main goal of Bystash is to simplify how developers manage frequently used code. It eliminates the need to search through old projects or scattered notes by centralizing snippets in one accessible location. Additionally, Bystash fosters collaboration by allowing users to share public snippets with the community, making it easier to reuse trusted, well-documented code.
+The main goal of ByteStash is to simplify how developers manage frequently used code. It eliminates the need to search through old projects or scattered notes by centralizing snippets in one accessible location. Additionally, ByteStash fosters collaboration by allowing users to share public snippets with the community, making it easier to reuse trusted, well-documented code.
 
 ### Target audience
 - **Software developers** looking to organize their code snippets.
@@ -19,7 +15,7 @@ The main goal of Bystash is to simplify how developers manage frequently used co
 - **Frontend/backend engineers** working with various languages or stacks.
 
 ### Supported technologies
-Bystash supports syntax highlighting and formatting for a wide range of languages and tools, including:
+Bytestash supports syntax highlighting and formatting for a wide range of languages and tools, including:
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript
 - **Backend:** Node.js, Python, PHP, Ruby, Java, C#, Go
@@ -37,22 +33,22 @@ New languages and formats can be added through contributions or extensions.
 
 You can <a href="https://code.dunosis.com/register" target="_blank" rel="noopener noreferrer">register</a> by entering a username and password.
 
-![register](../../assets/backend/bystash/by-register.png){ loading=lazy }
+![register](../../assets/backend/bytestash/by-register.png){ loading=lazy }
 
 If you already have an account, log in to the platform  <a href="https://code.dunosis.com/login" target="_blank" rel="noopener noreferrer">here</a>.
 
-![login](../../assets/backend/bystash/by-login.png){ loading=lazy }
+![login](../../assets/backend/bytestash/by-login.png){ loading=lazy }
 
 
 ### Creating your first snippet
-![New Snippet](../../assets/backend/bystash/by-create_snippet.png){ loading=lazy }
+![New Snippet](../../assets/backend/bytestash/by-create_snippet.png){ loading=lazy }
 
 
 ### 🧾 How to Fill Out the “Add New Snippet” Form
-![Form Snippet](../../assets/backend/bystash/by-create_snippet_form.png){ loading=lazy }
+![Form Snippet](../../assets/backend/bytestash/by-create_snippet_form.png){ loading=lazy }
 
 
-When creating a new snippet in Bystash, you’ll be asked to fill out several fields. Here’s a step-by-step guide:
+When creating a new snippet in ByteStash, you’ll be asked to fill out several fields. Here’s a step-by-step guide:
 
 ---
 
@@ -94,7 +90,7 @@ When creating a new snippet in Bystash, you’ll be asked to fill out several fi
         - Requires: Axios, React 18+, useEffect, useState 
         - ⚠️ Does not handle network errors or 401 responses — must be handled separately.
 
-        - See also: [Custom Axios Hook Snippet](https://code.bystash.com/snippets/custom-axios-hook)
+        - See also: [Custom Axios Hook Snippet](https://code.ByteStash.com/snippets/custom-axios-hook)
 ---
 
 3. **Categories (max 20)**
@@ -142,13 +138,13 @@ Click the blue **“Add Snippet”** button to save your code snippet to your li
 - Additionally, use the available filters to narrow down results by programming language or other categories.
 
 
-![login](../../assets/backend/bystash/by-search.png){ loading=lazy }
+![login](../../assets/backend/bytestash/by-search.png){ loading=lazy }
 
 ### Don't rewrite a snippet, just duplicate it.
 - If you want to create a snippet based on another,
 - if you don't want to rewrite the same code twice, just duplicate it.
 
-![login](../../assets/backend/bystash/by-copy.png){ loading=lazy }
+![login](../../assets/backend/bytestash/by-copy.png){ loading=lazy }
 
 ### Quick code copying
 - Click on the card with the snippet.
@@ -205,7 +201,7 @@ Properly tagging your snippets helps improve searchability, organization, and re
 ## 4. Supported Languages and Formats
 ### 🔹 List of Supported Languages
 
-Bystash supports a wide variety of programming and scripting languages to accommodate different use cases. These include:
+ByteStash supports a wide variety of programming and scripting languages to accommodate different use cases. These include:
 
 - **Frontend**: HTML, CSS, JavaScript, TypeScript
 - **Backend**: Python, Ruby, PHP, Java, C#, Node.js
@@ -220,7 +216,7 @@ Additional languages may be added progressively or via community contributions.
 
 ### 🔹 Syntax Highlighting Support
 
-Bystash uses language-aware syntax highlighting to make code easier to read and understand. Each code fragment can be assigned a language, and the editor automatically applies appropriate styling and colorization.
+ByteStash uses language-aware syntax highlighting to make code easier to read and understand. Each code fragment can be assigned a language, and the editor automatically applies appropriate styling and colorization.
 
 - Highlighting is powered by a built-in highlighter (e.g., Prism.js or Highlight.js).
 - Multi-language snippets are supported by allowing multiple fragments per snippet.
@@ -263,7 +259,7 @@ To ensure your snippets are easy to understand, reusable, and searchable, follow
 ## 7. Developer Section (if the platform is extensible)
 ### Public API (if available)
     
-### Integrating Bystash into your workflow (CLI, VS Code, etc.)
+### Integrating ByteStash into your workflow (CLI, VS Code, etc.)
     
 ### Webhooks and automation
     
