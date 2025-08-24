@@ -66,7 +66,9 @@ nav:
     - Lessons Learned: code/lessons-learned.md
     - DevOps:
       - New Project Repo: code/devops/new-project-repo.md
-      - Digital Ocean Deployment: code/devops/deployment.md
+      - Digital Ocean Deployment:
+        - App Platform: code/devops/digital-ocean/app-platform.md
+        - Droplets: code/devops/digital-ocean/droplets.md
       - Hetzner Server: code/devops/hetzner.md
       - Twenty CRM: code/devops/twenty-crm.md
       - Upgrading Twenty CRM: code/devops/twenty-upgrade.md
