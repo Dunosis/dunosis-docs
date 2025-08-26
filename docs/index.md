@@ -18,7 +18,9 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 
 **DevOps**:
 
-- [Digital Ocean Deployment](code/devops/deployment.md)
+- **Digital Ocean Deployment**:
+    - [App Platform](code/devops/digital-ocean/app-platform.md)
+    - [Droplets](code/devops/digital-ocean/droplets.md)
 - [Monitoring](code/devops/monitoring.md)
 - [New Project](code/devops/new-project-repo.md)
 - [Hetzner Server](code/devops/hetzner.md)
@@ -37,17 +39,23 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 
 ### 3. Client Instructions
 - [Overview](client-instructions/client-instructions-overview.md)
-- **Admin Dashboard**:
-  - [Managing Users](client-instructions/admin-dashboard/managing-users.md)
-  - [Managing Content](client-instructions/admin-dashboard/managing-content.md)
-- **Service Requests**:
-  - [Creating a Request](client-instructions/service-requests/creating-requests.md)
-  - [Updating a Request](client-instructions/service-requests/updating-requests.md)
-  - [Closing a Request](client-instructions/service-requests/closing-requests.md)
-- **Common Issues**:
-  - [Troubleshooting](client-instructions/common-issues/troubleshooting.md)
-  - [Error Messages](client-instructions/common-issues/error-messages.md)
-  - [Common Fixes](client-instructions/common-issues/common-fixes.md)
+
+    **Admin Dashboard**:
+
+      - [Managing Users](client-instructions/admin-dashboard/managing-users.md)
+      - [Managing Content](client-instructions/admin-dashboard/managing-content.md)
+
+    **Service Requests**:
+
+      - [Creating a Request](client-instructions/service-requests/creating-requests.md)
+      - [Updating a Request](client-instructions/service-requests/updating-requests.md)
+      - [Closing a Request](client-instructions/service-requests/closing-requests.md)
+
+    **Common Issues**:
+
+      - [Troubleshooting](client-instructions/common-issues/troubleshooting.md)
+      - [Error Messages](client-instructions/common-issues/error-messages.md)
+      - [Common Fixes](client-instructions/common-issues/common-fixes.md)
 
 ### 4. Design
 - [Overview](design/design-overview.md)
