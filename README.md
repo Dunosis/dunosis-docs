@@ -72,4 +72,4 @@ To add new content, follow these steps:
 7. If you are running a local MkDocs server, refresh the page to see the new content. If not, you may need to rebuild the site using the `mkdocs build` command.
 8. Finally, merge into `main` branch and test in the deployed GitHubPages version.
 
-#### Dunosis LLC
+#### Dunosis LLC !
