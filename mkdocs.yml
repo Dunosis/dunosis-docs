@@ -71,7 +71,6 @@ nav:
       - Hetzner Server: code/devops/hetzner.md
       - Twenty CRM: code/devops/twenty-crm.md
       - Upgrading Twenty CRM: code/devops/twenty-upgrade.md
-      - Monitoring: code/devops/monitoring.md
     - Backend:
       - SEO: code/backend/seo.md
       - Bytestash: code/backend/bytestash.md

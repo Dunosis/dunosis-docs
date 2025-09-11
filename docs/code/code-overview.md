@@ -21,7 +21,6 @@ Learn how we deploy, monitor, and scale projects with step-by-step guides:
 - **[Hetzner Server](devops/hetzner.md)**: How to create a new Hetzner VPS with NGINX, DOCKER, and Portainer.
 - **[Twenty CRM](devops/twenty-crm.md)**: How to install an instance of Twenty CRM on a Hetzner VPS.
 - **[Upgrading Twenty CRM](devops/twenty-upgrade.md)**: How to upgrade a self-hosted Twenty CRM instance.
-- **[Monitoring](devops/monitoring.md)**: Keeping track of performance and identifying issues.
 
 ---
 

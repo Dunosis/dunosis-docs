@@ -20,7 +20,6 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 - **Digital Ocean Deployment**:
     - [App Platform](code/devops/digital-ocean/app-platform.md)
     - [Droplets](code/devops/digital-ocean/droplets.md)
-- [Monitoring](code/devops/monitoring.md)
 - [New Project](code/devops/new-project-repo.md)
 - [Hetzner Server](code/devops/hetzner.md)
 - [Twenty CRM](code/devops/twenty-crm.md)
