@@ -32,7 +32,6 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 
 **Frontend**:
 
-- [UI/UX Principles](code/frontend/ui-ux.md)
 - [Custom Fonts](code/frontend/custom-fonts.md)
 
 ### 3. Client Instructions

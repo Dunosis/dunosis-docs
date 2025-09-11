@@ -75,7 +75,6 @@ nav:
       - SEO: code/backend/seo.md
       - Bytestash: code/backend/bytestash.md
     - Frontend:
-      - UI/UX: code/frontend/ui-ux.md
       - Custom Fonts: code/frontend/custom-fonts.md
   - Client Instructions:
     - Overview: client-instructions/client-instructions-overview.md

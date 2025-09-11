@@ -35,7 +35,6 @@ Get insights into the server-side logic and optimization:
 ### 4. Frontend Development
 Explore the tools and techniques used to create user-friendly interfaces:
 
-- **[UI/UX Principles](frontend/ui-ux.md)**: Guidelines for designing and implementing engaging user interfaces.
 - **[Custom Fonts](frontend/custom-fonts.md)**: How to add custom fonts to a django web dev project.
 
 ---
