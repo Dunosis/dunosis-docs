@@ -63,7 +63,6 @@ nav:
   - Code:
     - Overview: code/code-overview.md
     - Style Guide: code/style-guide.md
-    - Lessons Learned: code/lessons-learned.md
     - DevOps:
       - New Project Repo: code/devops/new-project-repo.md
       - Digital Ocean Deployment:

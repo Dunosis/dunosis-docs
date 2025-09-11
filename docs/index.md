@@ -14,7 +14,6 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 ### 2. Code
 - [Overview](code/code-overview.md)
 - [Style Guide](code/style-guide.md)
-- [Lessons Learned](code/lessons-learned.md)
 
 **DevOps**:
 

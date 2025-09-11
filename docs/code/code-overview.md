@@ -10,7 +10,6 @@ Welcome to the **Code** section of the Dunosis Documentation! This section is yo
 Overview of the Dunosis Code Documentation, including:
 
 - **[Style Guide]**: Modular building blocks for your projects.
-- **[Lessons Learned]**: Snippets for third-party services and APIs.
 
 ---
 
@@ -46,7 +45,6 @@ Explore the tools and techniques used to create user-friendly interfaces:
 Ensure consistency and quality across projects with:
 
 - **[Style Guide](style-guide.md)**: Coding standards and formatting rules.
-- **[Lessons Learned](lessons-learned.md)**: Insights and takeaways from past projects.
 
 ---
 
