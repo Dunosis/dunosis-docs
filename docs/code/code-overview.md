@@ -10,7 +10,6 @@ Welcome to the **Code** section of the Dunosis Documentation! This section is yo
 Overview of the Dunosis Code Documentation, including:
 
 - **[Style Guide]**: Modular building blocks for your projects.
-- **[Lessons Learned]**: Snippets for third-party services and APIs.
 
 ---
 
@@ -22,7 +21,6 @@ Learn how we deploy, monitor, and scale projects with step-by-step guides:
 - **[Hetzner Server](devops/hetzner.md)**: How to create a new Hetzner VPS with NGINX, DOCKER, and Portainer.
 - **[Twenty CRM](devops/twenty-crm.md)**: How to install an instance of Twenty CRM on a Hetzner VPS.
 - **[Upgrading Twenty CRM](devops/twenty-upgrade.md)**: How to upgrade a self-hosted Twenty CRM instance.
-- **[Monitoring](devops/monitoring.md)**: Keeping track of performance and identifying issues.
 
 ---
 
@@ -37,7 +35,6 @@ Get insights into the server-side logic and optimization:
 ### 4. Frontend Development
 Explore the tools and techniques used to create user-friendly interfaces:
 
-- **[UI/UX Principles](frontend/ui-ux.md)**: Guidelines for designing and implementing engaging user interfaces.
 - **[Custom Fonts](frontend/custom-fonts.md)**: How to add custom fonts to a django web dev project.
 
 ---
@@ -46,7 +43,6 @@ Explore the tools and techniques used to create user-friendly interfaces:
 Ensure consistency and quality across projects with:
 
 - **[Style Guide](style-guide.md)**: Coding standards and formatting rules.
-- **[Lessons Learned](lessons-learned.md)**: Insights and takeaways from past projects.
 
 ---
 

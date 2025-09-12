@@ -14,14 +14,12 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 ### 2. Code
 - [Overview](code/code-overview.md)
 - [Style Guide](code/style-guide.md)
-- [Lessons Learned](code/lessons-learned.md)
 
 **DevOps**:
 
 - **Digital Ocean Deployment**:
     - [App Platform](code/devops/digital-ocean/app-platform.md)
     - [Droplets](code/devops/digital-ocean/droplets.md)
-- [Monitoring](code/devops/monitoring.md)
 - [New Project](code/devops/new-project-repo.md)
 - [Hetzner Server](code/devops/hetzner.md)
 - [Twenty CRM](code/devops/twenty-crm.md)
@@ -34,7 +32,6 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 
 **Frontend**:
 
-- [UI/UX Principles](code/frontend/ui-ux.md)
 - [Custom Fonts](code/frontend/custom-fonts.md)
 
 ### 3. Client Instructions
